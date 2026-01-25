@@ -1,0 +1,7 @@
+# Active projects go here
+# Each project is a subdirectory with:
+# - overview.md
+# - events.md
+# - state.json
+# - social_log.jsonl
+# - artifacts/
